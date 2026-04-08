@@ -97,5 +97,6 @@ Inventory={
 
 
 print(val_and_res_order(Order, Inventory))  
-# Expected Output: ValueError: Insufficient stock for items: ['Mouse']
+
+
 
