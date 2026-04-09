@@ -1,14 +1,5 @@
-    [
-        {
-            "id": 1,
-            "name": "Bharathan",
-            "amount": 200,
-            "status": "processed"
-        },
-        {
-            "id": 2,
-            "name": "Vijayalakshmi",
-            "amount": 500,
-            "status": "processed"
-        }
-    ]
+{
+    "name": "Bharathan",
+    "age": 22,
+    "skills": ["Python", "SQL", "API"]
+}
